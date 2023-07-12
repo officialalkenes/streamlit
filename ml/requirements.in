@@ -66,7 +66,7 @@ scikit-learn @ file:///C:/b/abs_a0emltxu06/croot/scikit-learn_1680198772090/work
 scipy==1.10.1
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 smmap==5.0.0
-streamlit==1.22.0
+streamlit==1.24.1
 tenacity==8.2.2
 threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
 tokenizers==0.13.3
